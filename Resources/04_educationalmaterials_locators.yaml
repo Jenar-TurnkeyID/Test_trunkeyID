@@ -1,0 +1,7 @@
+email_column: //*[@id="email"]
+password_column: //*[@id="password"]
+Login_button: (//*[contains(text(),'Log in')])[2]
+dashboard: (//*[contains(text(),'Dashboard')])[4]
+edu_menu: //*[contains(text(),'Analisis & Pendidikan')]
+semua_kursus: //*[contains(text(),'Tampilkan semua kursus')]
+card_list1: //*[@class="card-wrapper course-item__card-wrapper card-wrapper--overflow_hidden"]

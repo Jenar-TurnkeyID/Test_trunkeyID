@@ -1,0 +1,8 @@
+email_column: //*[@id="email"]
+password_column: //*[@id="password"]
+Login_button: (//*[contains(text(),'Log in')])[2]
+alert_blank_email: //*[contains(text(),'Dibutuhkan Email')]
+alert_blank_password: //*[contains(text(),'Dibutuhkan kata sandi')]
+alert_wrong_email: //*[contains(text(),'Email tidak terdaftar')]
+alert_wrong creds: //*[contains(text(),'Terjadi kesalahan saat login atau Anda salah memasukkan password')]
+dashboard: (//*[contains(text(),'Dashboard')])[4]
